@@ -1,0 +1,9 @@
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\bin\Debug\practico_de_vectrores.exe.config
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\bin\Debug\practico_de_vectrores.exe
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\bin\Debug\practico_de_vectrores.pdb
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.csprojResolveAssemblyReference.cache
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.Form1.resources
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.Properties.Resources.resources
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.csproj.GenerateResource.Cache
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.exe
+C:\programacion1\practico_de_vectrores\practico_de_vectrores\obj\Debug\practico_de_vectrores.pdb
